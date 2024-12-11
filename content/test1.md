@@ -1,0 +1,1 @@
+This hackathon is an opportunity to riff with cutting-edge AI technology. Join us and get comfortable with a setlist for learning AI with Cortex Search for retrieval, Mistral LLM (mistral-large2) on Snowflake Cortex for generation, and Streamlit Community Cloud for the front end
